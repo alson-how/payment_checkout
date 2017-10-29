@@ -1,0 +1,109 @@
+
+@font-face{
+	font-family: 'MontserratAlternates-Regular';
+	src: url('../fonts/Montserrat-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	font-family: 'MontserratAlternates-Regular';
+}
+
+.cartTitle {
+	color : #0000A0;
+	font-size : 20px;
+	font-weight: bold;
+}
+
+.cartChevronColor {
+	color : #0000A0 !important;
+	font-weight: bold;
+}
+
+.table img {
+	max-height: 60px !important;
+	width: auto !important;
+}
+
+.img-responsive {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.btnStyle{
+	width:100%;
+	height:50px;
+}
+
+.btnCheckoutColor{
+	background-color:#0000A0 !important;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+	border-top: none !important;
+}
+
+.tdContentColor{
+	color:#D1D0CE
+}
+
+.customButton {
+	background-color: #F8F9F9; /* Green */
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	padding: 6px 0;
+	font-size: 12px;
+	line-height: 1.428571429;
+	border-radius: 15px;
+}
+
+.customButtonMarginRight{
+	margin-right:15px;
+}
+
+.customButtonMarginLeft{
+	margin-left:15px;
+}
+
+.productName{
+	color:#0000A0;
+}
+
+.tableContentFloatRight{
+	float:right;
+}
+
+.totalBorderTop{
+	border-top:1px solid #D1D0CE;
+}
+
+.btnCheckoutPaddingTop{
+	 padding-top:20px;
+}
+
+.giftCodePaddingTop{
+	padding-top:30px;
+}
+
+.giftCodeTextColor{
+	color:#2B60DE
+}
+
+.iimgWidthRow{
+	width:80px;
+}
+
+.pricePadding{
+	padding-left:10px;
+}
+
+.descWidth{
+	width:10%;
+}
+
+.plusIconFontSize{
+	font-size: 9px !important;
+}
